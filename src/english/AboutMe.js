@@ -51,13 +51,13 @@ const AboutMe = () => {
             </a>
           </div>
           <p className="abMe">
-            I am a young and excited Full Stack Developer looking to soak up as
-            much as I can! New experiences are always a big drive for me, for
-            example I had two years of voulenteer service in Japan and did
-            Japanese Translation afterwards in Hawaii. I have a passion for
-            coding because it is an ever growing, ever learning enviroment that
-            harbors true innovation As a Developer I am finally 'Living the
-            Dream'!
+            I am an excited Full Stack Developer looking to soak up as much as I
+            can! New experiences are always a big drive for me, for example I
+            had two years of volunteer service in Japan and did Japanese
+            Translation afterwards in Hawaii. I have a passion for coding
+            because it is an ever growing, ever learning environment that
+            harbors true innovation. I want nothing more than to develop with
+            code and as a person!
           </p>
         </MDBContainer>
       </MDBJumbotron>
